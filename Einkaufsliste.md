@@ -1,7 +1,11 @@
-#Einkaufsliste
+# Einkaufsliste
 
-*Äpfel
-*Birnen
-*Bier
-*Whisky
-*Scotch
+* Äpfel
+
+* Birnen
+
+* Bier
+
+* Whisky
+
+* Scotch
