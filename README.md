@@ -1,6 +1,9 @@
-# Einkaufsliste
+# Ein Projekt der Open Source vorlesung
 
-##Lebenslauf:
+## Lebenslauf:				![](http://img.clipartall.com/pokemon-clipart-image-poke-clipart005.jpg "Bildtitel hier"
 
-Name: Stefan Kienzler
+
+Name: kienzlst
+B-day: 99.99.99
+
 
